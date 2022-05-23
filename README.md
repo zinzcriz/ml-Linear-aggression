@@ -1,5 +1,5 @@
 # ml-Linear-aggression
-Python program to 
+A sample python program to 
 - read data from a csv file
 - clean the data
 - train the model
